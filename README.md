@@ -30,7 +30,7 @@ This paper is being developed as a living document, open to changes from the com
 
 ## Citing this work
 
-Version 1.0 of this work is being published in the Living Journal of Computaitonal Molecular Science (LiveCoMS) volume 1, issue 1, page/article 5957 (2019).    It is available at this DOI: [10.33011/livecoms.1.1.5957](http://dx.doi.org/10.33011/livecoms.1.1.5957).
+Version 1.0 of this work is being published in the Living Journal of Computational Molecular Science (LiveCoMS) volume 1, issue 1, page/article 5957 (2019).    It is available at this DOI: [10.33011/livecoms.1.1.5957](http://dx.doi.org/10.33011/livecoms.1.1.5957).
 
 Ongoing (non-peer reviewed) versions of this article will be assigned unique DOIs via Zenodo which will be posted here and can be cited by these DOIs; subsequent peer reviewed versions (when applicable) are planned to be published in LiveCoMS.
 
